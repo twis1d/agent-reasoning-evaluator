@@ -1,0 +1,20 @@
+[
+    {
+      "task": "Sum first 5 odd numbers",
+      "reasoning": ["Odd numbers: 1,3,5,7,9", "1+3+5+7+9 = 25"],
+      "output": "25",
+      "expected_output": "25"
+    },
+    {
+      "task": "Capital of Japan",
+      "reasoning": ["Capital of Japan is Osaka"],
+      "output": "Osaka",
+      "expected_output": "Tokyo"
+    },
+    {
+      "task": "Plan a 2-day trip: suggest 2 activities each day",
+      "reasoning": ["Day1: Beach, temple; Day2: trek, local market"],
+      "output": "Day1: Beach, temple; Day2: trek, market",
+      "expected_output": null
+    }
+  ]  

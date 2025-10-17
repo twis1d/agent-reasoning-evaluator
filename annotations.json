@@ -1,0 +1,23 @@
+[
+  {
+    "task": "Sum first 5 odd numbers",
+    "output": "25",
+    "expected": "25",
+    "is_correct": true,
+    "error_type": "None"
+  },
+  {
+    "task": "Capital of Japan",
+    "output": "Osaka",
+    "expected": "Tokyo",
+    "is_correct": false,
+    "error_type": "Incorrect factual/logic error"
+  },
+  {
+    "task": "Plan a 2-day trip: suggest 2 activities each day",
+    "output": "Day1: Beach, temple; Day2: trek, market",
+    "expected": null,
+    "is_correct": false,
+    "error_type": "Possible omission"
+  }
+]

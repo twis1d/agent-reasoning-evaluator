@@ -1,0 +1,4 @@
+task,is_correct,error_type
+Sum first 5 odd numbers,True,None
+Capital of Japan,False,Incorrect factual/logic error
+Plan a 2-day trip: suggest 2 activities each day,False,Possible omission
